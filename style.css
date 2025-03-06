@@ -22,7 +22,7 @@ body::-webkit-scrollbar {
 }
 
 .hello {
-  padding:20% 0%;
+  padding:25% 0%;
   background-image: url(./images/forest.jpg);
   background-size: cover;
   text-align: center;
