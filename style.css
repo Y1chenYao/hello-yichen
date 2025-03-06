@@ -22,7 +22,7 @@ body::-webkit-scrollbar {
 }
 
 .hello {
-  padding:25% 0%;
+  padding:20% 0%;
   background-image: url(./images/forest.jpg);
   background-size: cover;
   text-align: center;
@@ -62,12 +62,13 @@ p{
 
 .about {
   padding:10% 15%;
-  color: #393939;
+  color: #171717;
+  background-color: #ececec;
 }
 
 .project {
   padding:10% 10%;
-  background-image: url(./images/exp.jpg);
+  background-image: url(./images/forest.jpg);
   background-size: cover;
   text-align: center;
 }
