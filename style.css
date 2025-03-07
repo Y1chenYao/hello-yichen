@@ -23,14 +23,14 @@ body::-webkit-scrollbar {
 
 .hello {
   padding:20% 0%;
-  background-image: url(./images/forest4.jpg);
+  background-image: url(./images/bg1.jpg);
   background-size: cover;
   text-align: center;
 }
 
 .project {
   padding:5% 10%;
-  background-image: url(./images/forest5.jpg);
+  background-image: url(./images/bg2.jpg);
   background-size: cover;
   text-align: center;
 }
@@ -38,14 +38,14 @@ body::-webkit-scrollbar {
 .course {
   padding:8% 15%;
   color: #fff;
-  background-image: url(./images/forest3.jpg);
+  background-image: url(./images/bg1.jpg);
   background-size: cover;
 }
 
 #contact{
   text-align: center;
   /* background-image: linear-gradient(60deg,#232b35 0%,#0c0c0d 100%); */
-  background-image: url(./images/forest5.jpg);
+  background-image: url(./images/bg2.jpg);
   background-size: cover;
   padding: 20px;
 }
