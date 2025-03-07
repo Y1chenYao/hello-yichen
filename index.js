@@ -1,3 +1,4 @@
+//title screen
 const textEl=document.querySelector("#text");
 const texts=JSON.parse(textEl.getAttribute("data-text"));
 
