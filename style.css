@@ -1,6 +1,7 @@
 body{
   font-family: 'Barlow', sans-serif;
   margin:0;
+  background-color: #ececec;
 }
 
 body::-webkit-scrollbar {
@@ -19,6 +20,17 @@ body::-webkit-scrollbar {
 
 .white-text{
   color: #fff;
+}
+
+.animated-div {
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+.animated-div.visible {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .hello {
@@ -102,7 +114,6 @@ p{
 .light-section {
   padding:8% 15%;
   color: #171717;
-  background-color: #ececec;
 }
 
 .card-height {
